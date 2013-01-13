@@ -60,7 +60,7 @@
     <PackedValue>4294902015</PackedValue>
   </ColorTextureTransparent>
   <DefaultPathItemLineWidth>4</DefaultPathItemLineWidth>
-  <DefaultContentRootFolder>C:\repos\axios-platformer\AxiosPlatformer\AxiosPlatformerContent</DefaultContentRootFolder>
+  <DefaultContentRootFolder>.</DefaultContentRootFolder>
   <CameraSpeed>500</CameraSpeed>
   <CameraFastSpeed>2000</CameraFastSpeed>
   <DefaultTextureOriginMethod>TextureCenter</DefaultTextureOriginMethod>
